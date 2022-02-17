@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="my first pokedex with react.js" src=".unknown.png" width="920" heigth="518" />
+  <img alt="my first pokedex with react.js" src="./unknown.png" width="920" heigth="518" />
 
 </p>
 
