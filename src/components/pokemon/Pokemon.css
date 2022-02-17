@@ -1,0 +1,26 @@
+.pokemon {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  border: 1px solid black;
+  width: 330px;
+  border-radius: 0.5rem;
+  background-image: url(https://www.rpnation.com/gallery/just-a-pokeball-background.27961/full?d=1497385915);
+  background-size: 330px 200px;
+}
+
+.pokemon:hover {
+  opacity: 0.8;
+}
+
+span {
+  font-family: Bangers;
+  font-size: 1.3rem;
+}
+
+.poke-info {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
