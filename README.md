@@ -30,4 +30,4 @@ $ yarn start
 
 ---
 
-Made by Igor Mazetti 👋 [See my linkedin](https://www.linkedin.com/in/igor-mazetti-de-azevedo-147679ba/)
+Made by Igor Mazetti 👋 [See my linkedin](https://www.linkedin.com/in/igormazetti/)
